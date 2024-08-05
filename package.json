@@ -1,0 +1,17 @@
+{
+  "name": "grokkingalgorithms",
+  "version": "1.0.0",
+  "description": "This repository is designed to apply the knowledge acquired from the book Grokking Algorithms.  To practice, I have chosen three programming languages: Java, Golang, and JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^22.1.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.5.4"
+  }
+}
