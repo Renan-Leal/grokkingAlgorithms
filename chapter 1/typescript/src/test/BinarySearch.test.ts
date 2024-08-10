@@ -4,7 +4,7 @@ import BinarySearch from "../main/BinarySearch";
 describe("Binary search module", () => {
   const binarySearch: BinarySearch = new BinarySearch();
 
-  test("Guess must be empty", () => {
+  test("List must be empty", () => {
     const list: number[] = [15, 37];
     const emptyList: number[] = [];
 
